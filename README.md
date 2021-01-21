@@ -13,7 +13,7 @@
 #### Documentacion
 
 - [Pruebas de testeo](https://docs.google.com/document/d/1zBoVNa-wu0sDKJZIGAE1M4t3dKF4zB10/edit)
--
+- 
 -
 
 ### Constriudo con
@@ -25,8 +25,8 @@
     - Descarga archivos abiertos del conacyt
     - Descomprime el zip y coloca en carpeta de la que escogamos ruta
     - Puedes colocar la fecha de la base de datos que quieres descargar
-  - Bugs reportados
-    - 
+  - Problemas reportados
+    - Aun no es capáz de auto-instalarse correctamente como libreria en Julia
     - 
     -
 ### Licencia
